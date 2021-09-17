@@ -24,15 +24,16 @@ There are the most drivers in urban cities. Surburban cities have the second hig
 
 Out of the total fares, urban cities make up the majority. Suburban cities make up the second highest percent of the total fares, 30.5%. 6.8% of the total fares are in rural cities. Please see the pie chart above for the specific percentages.
 
+<img width="364" alt="Average Fare" src="https://user-images.githubusercontent.com/88804543/133807393-028c69fe-c4ab-44a7-b4ca-5d389dc6f2cf.png">
+
+The average fare price is highest in rural cities. There is also high variation in the fare price for rural cities. The second highest fare price is in suburban areas. And urban cities have the lowest fare price on average. Although there are more drivers in urban ares, the average fare price is highest in rural cities.
+
 <img width="889" alt="PyBare Fare Summary" src="https://user-images.githubusercontent.com/88804543/133807185-f7fdce9b-dffa-4f77-bf06-30e78bf846f3.png">
 
-
-
-
-
+In January to April of 2019, urban cities generated the highest volume in total fares. Despite the average fare price being the highest in rural cities, urban cities generated the greatest amount in total fares, followed by surburban cities, followed by rural cities. The total fares generated in rural cities never exceeded $500. This is relatively low compared to urban cities, which generated $1500-2500 in total fares.
 
 ## Summary
 
-### The three different city types have disparities in terms of the: 
-### If drivers in an urban city want to make more money with fewer drives, they should consider driving to a rural city to work, because while rural cities have less rides on average, drivers tend to make more money per drive in rural cities than drivers in urban cities.
-
+### The three different city types have different numbers of drivers, rides, average fare cost, and generate varying amounts in total fares. If drivers in an urban city want to make more money with fewer drives, they should consider driving to a rural city to give rides, because while rural cities have less rides on average, drivers tend to make more money per drive in rural cities than drivers in urban cities.
+### In urban cities there are many drivers and many rides, thus fare prices are low. Urban cities also generate the greatest amount in total fares despite having the lowest average fare cost. Based on this data, PyBer should focus on increasing the number of drivers in urban cities. More rides occur here
+### Although average fare
