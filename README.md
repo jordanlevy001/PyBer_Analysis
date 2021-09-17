@@ -13,12 +13,17 @@ Overall, there are more rides and more drivers in urban cities than suburban and
 <img width="361" alt="Ride Count Summary" src="https://user-images.githubusercontent.com/88804543/133805102-56cfd5c6-1b3a-4873-b8a9-5475df8ce06a.png">
 <img width="365" alt="Percent of Total Rides by City Type" src="https://user-images.githubusercontent.com/88804543/133805903-95afa710-ea3e-4577-9956-f8161f12ecb9.png">
 
-Similar to the results shown in the ride share summary graph, there are a greater number of rides on average in urban cities, followed by suburban cities, followed by rural cities. There is a good spread in the number of rides in urban cities.
+Similar to the results shown in the ride share summary graph, there are a greater number of rides on average in urban cities, followed by suburban cities, followed by rural cities. There is a good spread in the number of rides in urban cities. Of the total rides that occur, most happen in urban cities. Please see the pie chart above for the specific percentages.
 
 <img width="366" alt="Driver Count Box Whisker" src="https://user-images.githubusercontent.com/88804543/133805373-132f54f6-b215-4395-8e41-a57931f43b6e.png">
 <img width="367" alt="Percent of Total Drivers by City Type" src="https://user-images.githubusercontent.com/88804543/133805854-7b19e19d-251a-4d36-993d-20130eacc0c2.png">
 
-There are the most drivers in urban cities. Surburban cities have the second highest number of drivers followed by rural cities.
+There are the most drivers in urban cities. Surburban cities have the second highest number of drivers followed by rural cities. Drivers in urban cities make up the majority of the total drivers. Please see the pie chart above for the specific percentages.
+
+<img width="306" alt="Percent of Total Fares by City Type" src="https://user-images.githubusercontent.com/88804543/133806220-c03ba744-a756-4564-b085-61ba5e1cd79e.png">
+
+Out of the total fares, urban cities make up the majority. Suburban cities make up the second highest percent of the total fares, 30.5%. 6.8% of the total fares are in rural cities. Please see the pie chart above for the specific percentages.
+
 
 
 
