@@ -24,6 +24,8 @@ There are the most drivers in urban cities. Surburban cities have the second hig
 
 Out of the total fares, urban cities make up the majority. Suburban cities make up the second highest percent of the total fares, 30.5%. 6.8% of the total fares are in rural cities. Please see the pie chart above for the specific percentages.
 
+<img width="889" alt="PyBare Fare Summary" src="https://user-images.githubusercontent.com/88804543/133807185-f7fdce9b-dffa-4f77-bf06-30e78bf846f3.png">
+
 
 
 
