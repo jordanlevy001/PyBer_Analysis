@@ -32,7 +32,7 @@ The average fare price is highest in rural cities. There is also high variation 
 
 <img width="889" alt="PyBare Fare Summary" src="https://user-images.githubusercontent.com/88804543/133807185-f7fdce9b-dffa-4f77-bf06-30e78bf846f3.png">
 
-In January to April of 2019, urban cities generated the highest volume in total fares. Despite the average fare price being the highest in rural cities, urban cities generated the greatest amount in total fares, followed by surburban cities, followed by rural cities. The total fares generated in rural cities never exceeded $500. This is relatively low compared to urban cities, which generated $1500-2500 in total fares. For all city types, there was a small spike in total fares the last week of February 2019.
+In January to April of 2019, urban cities generated the highest volume in total fares. Despite the average fare price being the highest in rural cities, urban cities generated the greatest amount in total fares, followed by surburban cities, followed by rural cities. The total fares generated in rural cities each week never exceeded $500. This is relatively low compared to urban cities, which generated $1500-2500 each week in total fares. For all city types, there was a small spike in total fares the last week of February 2019.
 
 ## Summary
 
