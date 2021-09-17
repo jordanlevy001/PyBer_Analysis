@@ -6,7 +6,10 @@
 
 ## Results
 
-### The
+<img width="673" alt="Total Rides vs Average Fare" src="https://user-images.githubusercontent.com/88804543/133801730-14d44a58-7a13-4e9a-9237-4ad7e30644e6.png">
+
+### Overall, there are more rides and more drivers in urban cities than suburban and rural cities. Rural cities tend to have less rides, but the average fare price is higher than in suburban and urban cities.
+
 
 
 ## Summary
