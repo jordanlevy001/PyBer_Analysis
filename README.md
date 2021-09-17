@@ -36,7 +36,7 @@ In January to April of 2019, urban cities generated the highest volume in total 
 
 ## Summary
 
-### The three different city types have different numbers of drivers, rides, average fare cost, and generate varying amounts in total fares. If drivers in an urban city want to make more money with fewer drives, they should consider driving to a rural city to give rides, because while rural cities have less rides on average, drivers tend to make more money per drive in rural cities than drivers in urban cities.
+### The three different city types have different numbers of drivers, rides, average fare cost, and generate varying amounts in total fares.
 ### In urban cities there are many drivers and many rides, thus fare prices are low. Urban cities also generate the greatest amount in total fares despite having the lowest average fare cost. Based on this data, PyBer should focus its efforts on urban cities as they generate the highest revenue.
 ### If PyBer wants to generate even more revenue, they should raise the fare cost in urban cities. Since there are the most drivers and number of rides occurring in urban areas, if the average fare cost was slightly increased, it would have the greatest impact on increasing the total fares.
 ### For all city types, there was a small spike in total fares the last week of February 2019. Valentine's Day is a holiday that occurs in the last week of February. It might be beneficial to ensure there are adequate drivers in all city types on special holidays where people tend to rely on ride sharing.
