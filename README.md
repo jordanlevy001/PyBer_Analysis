@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PyBer Analysis
 
 ## Overview of the Analysis
 
@@ -8,7 +8,19 @@
 
 <img width="673" alt="Total Rides vs Average Fare" src="https://user-images.githubusercontent.com/88804543/133801730-14d44a58-7a13-4e9a-9237-4ad7e30644e6.png">
 
-### Overall, there are more rides and more drivers in urban cities than suburban and rural cities. Rural cities tend to have less rides, but the average fare price is higher than in suburban and urban cities.
+Overall, there are more rides and more drivers in urban cities than suburban and rural cities. Rural cities tend to have less rides, but the average fare price is higher than in suburban and urban cities. The suburban cities have less rides than urban cities but the average fare price tends to be a littler higher than the average fare price in urban cities.
+
+<img width="361" alt="Ride Count Summary" src="https://user-images.githubusercontent.com/88804543/133805102-56cfd5c6-1b3a-4873-b8a9-5475df8ce06a.png">
+<img width="365" alt="Percent of Total Rides by City Type" src="https://user-images.githubusercontent.com/88804543/133805903-95afa710-ea3e-4577-9956-f8161f12ecb9.png">
+
+Similar to the results shown in the ride share summary graph, there are a greater number of rides on average in urban cities, followed by suburban cities, followed by rural cities. There is a good spread in the number of rides in urban cities.
+
+<img width="366" alt="Driver Count Box Whisker" src="https://user-images.githubusercontent.com/88804543/133805373-132f54f6-b215-4395-8e41-a57931f43b6e.png">
+<img width="367" alt="Percent of Total Drivers by City Type" src="https://user-images.githubusercontent.com/88804543/133805854-7b19e19d-251a-4d36-993d-20130eacc0c2.png">
+
+There are the most drivers in urban cities. Surburban cities have the second highest number of drivers followed by rural cities.
+
+
 
 
 
