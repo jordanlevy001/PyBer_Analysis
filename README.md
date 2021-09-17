@@ -30,10 +30,11 @@ The average fare price is highest in rural cities. There is also high variation 
 
 <img width="889" alt="PyBare Fare Summary" src="https://user-images.githubusercontent.com/88804543/133807185-f7fdce9b-dffa-4f77-bf06-30e78bf846f3.png">
 
-In January to April of 2019, urban cities generated the highest volume in total fares. Despite the average fare price being the highest in rural cities, urban cities generated the greatest amount in total fares, followed by surburban cities, followed by rural cities. The total fares generated in rural cities never exceeded $500. This is relatively low compared to urban cities, which generated $1500-2500 in total fares.
+In January to April of 2019, urban cities generated the highest volume in total fares. Despite the average fare price being the highest in rural cities, urban cities generated the greatest amount in total fares, followed by surburban cities, followed by rural cities. The total fares generated in rural cities never exceeded $500. This is relatively low compared to urban cities, which generated $1500-2500 in total fares. For all city types, there was a small spike in total fares the last week of February 2019.
 
 ## Summary
 
 ### The three different city types have different numbers of drivers, rides, average fare cost, and generate varying amounts in total fares. If drivers in an urban city want to make more money with fewer drives, they should consider driving to a rural city to give rides, because while rural cities have less rides on average, drivers tend to make more money per drive in rural cities than drivers in urban cities.
 ### In urban cities there are many drivers and many rides, thus fare prices are low. Urban cities also generate the greatest amount in total fares despite having the lowest average fare cost. Based on this data, PyBer should focus its efforts on urban cities as they generate the highest revenue.
-### Although average fare
+### If PyBer wants to generate even more revenue, they should raise the fare cost in urban cities. Since there are the most drivers and number of rides occurring in urban areas, if the average fare cost was slightly increased, it would have the greatest impact on increasing the total fares.
+### For all city types, there was a small spike in total fares the last week of February 2019. Valentine's Day is a holiday that occurs in the last week of February. It might be beneficial to ensure there are adequate drivers in all city types on special holidays where people tend to rely on ride sharing.
