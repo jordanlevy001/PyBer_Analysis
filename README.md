@@ -35,5 +35,5 @@ In January to April of 2019, urban cities generated the highest volume in total 
 ## Summary
 
 ### The three different city types have different numbers of drivers, rides, average fare cost, and generate varying amounts in total fares. If drivers in an urban city want to make more money with fewer drives, they should consider driving to a rural city to give rides, because while rural cities have less rides on average, drivers tend to make more money per drive in rural cities than drivers in urban cities.
-### In urban cities there are many drivers and many rides, thus fare prices are low. Urban cities also generate the greatest amount in total fares despite having the lowest average fare cost. Based on this data, PyBer should focus on increasing the number of drivers in urban cities. More rides occur here
+### In urban cities there are many drivers and many rides, thus fare prices are low. Urban cities also generate the greatest amount in total fares despite having the lowest average fare cost. Based on this data, PyBer should focus its efforts on urban cities as they generate the highest revenue.
 ### Although average fare
